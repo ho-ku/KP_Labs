@@ -1,0 +1,14 @@
+﻿4 11,00 5 4
+Salt 3
+suGar 0,5
+Powdered_MilK 7
+fLoUR 8
+flOuR 1
+CINNAmOn 8
+saLt 0,5
+SuGAr 20
+poWdErED_MILk 3
+FLOur 2
+SALT 0,4
+liQUID_HydRoGen 10000
+sUgAR 10

@@ -1,0 +1,14 @@
+D:/Лабы на заказ/ООКП Денис/ЛР 6/Lab6/Lab6/bin/Debug/Lab6.exe.config
+D:/Лабы на заказ/ООКП Денис/ЛР 6/Lab6/Lab6/bin/Debug/Lab6.exe
+D:/Лабы на заказ/ООКП Денис/ЛР 6/Lab6/Lab6/bin/Debug/Lab6.pdb
+D:/Лабы на заказ/ООКП Денис/ЛР 6/Lab6/Lab6/obj/Debug/Lab6.csprojAssemblyReference.cache
+D:/Лабы на заказ/ООКП Денис/ЛР 6/Lab6/Lab6/obj/Debug/Lab6.csproj.CoreCompileInputs.cache
+D:/Лабы на заказ/ООКП Денис/ЛР 6/Lab6/Lab6/obj/Debug/Lab6.exe
+D:/Лабы на заказ/ООКП Денис/ЛР 6/Lab6/Lab6/obj/Debug/Lab6.pdb
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/bin/Debug/Lab6.exe.config
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/bin/Debug/Lab6.exe
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/bin/Debug/Lab6.pdb
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/obj/Debug/Lab6.csprojAssemblyReference.cache
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/obj/Debug/Lab6.csproj.CoreCompileInputs.cache
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/obj/Debug/Lab6.exe
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/obj/Debug/Lab6.pdb
