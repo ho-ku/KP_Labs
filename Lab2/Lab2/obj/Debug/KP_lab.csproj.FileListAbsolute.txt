@@ -1,0 +1,21 @@
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/bin/Debug/Lab6.exe.config
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/bin/Debug/Lab6.exe
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/bin/Debug/Lab6.pdb
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/obj/Debug/KP_lab.csproj.AssemblyReference.cache
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/obj/Debug/KP_lab.csproj.CoreCompileInputs.cache
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/obj/Debug/Lab6.exe
+/Users/den444ik/Desktop/DB/Study/University/2.2/ООКП/ООКП Денис/ЛР 6/Lab6/Lab6/obj/Debug/Lab6.pdb
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab1/Lab1/bin/Debug/Lab6.exe.config
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab1/Lab1/bin/Debug/Lab6.exe
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab1/Lab1/bin/Debug/Lab6.pdb
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab1/Lab1/obj/Debug/KP_lab.csproj.AssemblyReference.cache
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab1/Lab1/obj/Debug/KP_lab.csproj.CoreCompileInputs.cache
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab1/Lab1/obj/Debug/Lab6.exe
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab1/Lab1/obj/Debug/Lab6.pdb
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab2/Lab2/bin/Debug/Lab6.exe.config
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab2/Lab2/bin/Debug/Lab6.exe
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab2/Lab2/bin/Debug/Lab6.pdb
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab2/Lab2/obj/Debug/KP_lab.csproj.AssemblyReference.cache
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab2/Lab2/obj/Debug/KP_lab.csproj.CoreCompileInputs.cache
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab2/Lab2/obj/Debug/Lab6.exe
+/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab2/Lab2/obj/Debug/Lab6.pdb
