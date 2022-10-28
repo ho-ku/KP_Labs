@@ -1,19 +1,17 @@
 ﻿<Properties StartupConfiguration="{484926C3-A2AD-499E-B635-7A1EAEF3EA51}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyMacID" />
   <MonoDevelop.Ide.ItemProperties.KP__lab PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab1/Program.cs">
     <Files>
-      <File FileName="input.txt" Line="5" Column="1" />
-      <File FileName="output.txt" Line="1" Column="4" />
-      <File FileName="Program.cs" Line="14" Column="44" />
+      <File FileName="Lab1/Program.cs" Line="1" Column="1" />
+      <File FileName="Lab1/input.txt" Line="14" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="KP_lab" expanded="True">
-            <Node name="KP_lab" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="KP_Lab" expanded="True">
+            <Node name="Новая папка" selected="True" />
+            <Node name="KP_lab" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,9 +20,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

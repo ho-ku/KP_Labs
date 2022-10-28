@@ -11,8 +11,7 @@ namespace KP_Lab
         
         static void Main(string[] args)
         {
-            readInput();
-            processData();
+            if (readInput()) processData();
         }
 
         static void processData()
@@ -54,28 +53,48 @@ namespace KP_Lab
             File.WriteAllText("/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab2/Lab2/output.txt", totalPrice.ToString());
         }
    
-        static void readInput()
+        static bool readInput()
         {
             string data = File.ReadAllText("/Users/den444ik/Desktop/DB/Study/University/4.1/KP_Labs/Lab2/Lab2/input.txt");
             if (data == "")
             {
                 Console.WriteLine("No data");
-                return;
+                return false;
             }
             string[] inputs = data.Split('\n');
             if (!Int32.TryParse(inputs[0], out n)) {
                 Console.WriteLine("Data malformed");
-                return;
+                return false;
             }
+
+            if (n <= 0)
+            {
+                Console.WriteLine("Days cannot be <= 0");
+                return false;
+            }
+
+            if (n != inputs.Length - 1)
+            {
+                Console.WriteLine("Mismatch between days count ans exact info");
+                return false;
+            }
+
             prices = new int[n];
             for (int i = 0; i < n; i++)
             {
                 if (!Int32.TryParse(inputs[i+1], out prices[i]))
                 {
                     Console.WriteLine("Data malformed");
-                    return;
+                    return false;
+                }
+
+                if (prices[i] <= 0)
+                {
+                    Console.WriteLine("Price cannot be <= 0");
+                    return false;
                 }
             }
+            return true;
         }
     }
 }
