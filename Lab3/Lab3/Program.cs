@@ -18,6 +18,8 @@ namespace KP_Lab
         {
             int[,] oneIndices = new int[n * m, 2];
             int currentIndex = 0;
+
+            bool hasOne = false;
             for (int i = 0; i < n; i++)
                 for (int j = 0; j < m; j++)
                 {
@@ -25,6 +27,7 @@ namespace KP_Lab
                     {
                         oneIndices[currentIndex, 0] = i;
                         oneIndices[currentIndex, 1] = j;
+                        hasOne = true;
                     }
                     else
                     {
@@ -33,6 +36,12 @@ namespace KP_Lab
                     }
                     currentIndex++;
                 }
+
+            if (!hasOne)
+            {
+                Console.WriteLine("We have no ones");
+                return;
+            }
 
             int[,] resultMatrix = new int[n, m];
             for (int i = 0; i < n; i++)
